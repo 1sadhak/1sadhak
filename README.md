@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on **Core CS Subjects, DSA and Projects**
 - 🌱 I’m currently a **Cloud Technology Trainee at PwC India**
 - 📚 I’m pursuing **B.Tech in CSE with a specialization in AI & ML at Vellore Institute of Technology, Chennai**
-- 💬 Ask me about **Machine Learning, Data Science, and Cloud Technologies**
+- 💬 Ask me about **Machine Learning, Data Science, and Innovation**
 - 📫 How to reach me: **sadhakj01@gmail.com**
 - ⚡ Fun fact: **Loves solving problems and implementing innovative solutions!**
 
